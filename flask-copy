@@ -22,7 +22,7 @@ server {
         server_name 10.0.2.15;
 
         root /var/www/html;
-        index index.html foo.php;
+        index index.html foo.php pay.php;
 
         ssl_certificate /home/lauren/CPSC222/server.crt;
         ssl_certificate_key /home/lauren/CPSC222/server.key;
