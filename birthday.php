@@ -77,7 +77,7 @@
 		<select name='year'>
 	
 	<?php
-		for($y=2024; $y>=1970; $y--)
+		for($y=2024; $y>=1960; $y--)
 		{
 			echo "\t\t\t<option value = '$y'> $y</option>\n";
 		}
